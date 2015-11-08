@@ -5,6 +5,7 @@
 * `git clone https://github.com/darkheart101/myLaravelPage`
 * `cd myLaravelPage`
 * create a .env file that contains:
+
 APP_ENV=local
 
 APP_DEBUG=true
