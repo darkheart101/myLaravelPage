@@ -12,6 +12,7 @@
             <a href="/">HOME</a>
             <a href="me">ME</a>
 			<a href="code">PROGRAMMING</a>
+
 			<a href="misc">MISC</a>
 			<a href="contact">CONTACT</a>
 		</p>
